@@ -4,19 +4,17 @@
 <img align="right" alt="Coding" width="350" src="https://imgs.search.brave.com/cTWvsKv2Fc7C5UDE5anDrCErBLMupkD9BAQQL3XPTBM/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzEwNTk1/ODMvc2NyZWVuc2hv/dHMvNDE3MTM2Ny9j/b2RpbmctZnJlYWsu/Z2lm.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilsingh22&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilsingh22" /> </p>
 
-- 🔭 I’m currently working on **Coursify**
+- 🔭 I’m interested in writing code in **web|App tech's**.
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👯 I’m looking to collaborate on **CSIT Project**
+- 👯 I’m looking to collaborate on **any project**
 
 - 🤝 I’m looking for help with **BlockChain**
 
-- 💬 Ask me about **C++, MERN**
-
 - 📫 How to reach me **singh.nikhil.2016880@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IF-YWZUuiHRCWu081NWzP5_DMM54LUL2/view?usp=sharing](https://drive.google.com/file/d/1IF-YWZUuiHRCWu081NWzP5_DMM54LUL2/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1IF-YWZUuiHRCWu081NWzP5_DMM54LUL2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
