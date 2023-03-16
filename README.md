@@ -1,7 +1,7 @@
-[![MasterHead](https://imgs.search.brave.com/LYuOaTKstDOr7LUka-Cm2IyU1Nf-oL0SfEx1xcXXCoo/rs:fit:640:360:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvdDREY0k5/UDNkTlZvQS9naXBo/eS5naWY.gif](https://rishavchanda.io)
+[![MasterHead](https://imgs.search.brave.com/LYuOaTKstDOr7LUka-Cm2IyU1Nf-oL0SfEx1xcXXCoo/rs:fit:640:360:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvdDREY0k5/UDNkTlZvQS9naXBo/eS5naWY.gif]
 <h1 align="center">Hi 👋, I'm Nikhil Singh</h1>
 <h3 align="center">A ambitious Developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/cTWvsKv2Fc7C5UDE5anDrCErBLMupkD9BAQQL3XPTBM/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzEwNTk1/ODMvc2NyZWVuc2hv/dHMvNDE3MTM2Ny9j/b2RpbmctZnJlYWsu/Z2lm.gif">
+<img align="right" alt="Coding" width="2500" src="https://imgs.search.brave.com/cTWvsKv2Fc7C5UDE5anDrCErBLMupkD9BAQQL3XPTBM/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzEwNTk1/ODMvc2NyZWVuc2hv/dHMvNDE3MTM2Ny9j/b2RpbmctZnJlYWsu/Z2lm.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilsingh22&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilsingh22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilsingh22" alt="nikhilsingh22" /></a> </p>
