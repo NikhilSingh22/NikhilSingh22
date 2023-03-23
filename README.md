@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **singh.nikhil.2016880@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1IF-YWZUuiHRCWu081NWzP5_DMM54LUL2/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1InWcLXJDRRgFwE81fRdZ6lv8fe5W6Dci/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
